@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540632299 source:d:\materi kuliah\semester 5\artificial intelligence\tugas\soal (tubpro2)\fuzzi_logic\tubpro2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<string>
+
